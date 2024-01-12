@@ -11,9 +11,7 @@ Soy un desarrollador de software con pasión por aprender y aplicar las últimas
 
 ## 🛠️ Habilidades técnicas
 
-JavaScript | React.js | Node.js | Python | Java | SQL | MongoDB
-📈 Estadísticas de GitHub
-!Estadísticas de GitHub
+JavaScript | React.js | Python | Java | SQL |
 
 📫 Contáctame
 Email - programrafael@gmail.com
