@@ -1,16 +1,28 @@
-###  personalizarndo para el perfil de git_hub👋
+# Hola, soy [Tu nombre] 👋
 
-<!--
-**RafaelRLL/RafaelRLL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+!banner
 
-Here are some ideas to get you started:
+Soy un desarrollador de software con pasión por aprender y aplicar las últimas tecnologías para resolver problemas complejos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 Acerca de mí
+
+- 🎓 Soy licenciado en Ciencias de la Computación de la Universidad de [Tu universidad].
+- 🌱 Actualmente estoy aprendiendo sobre Inteligencia Artificial y Machine Learning.
+- 🚀 Me encanta contribuir a proyectos de código abierto.
+- 📚 Cuando no estoy programando, me gusta leer y hacer senderismo.
+
+## 🛠️ Habilidades técnicas
+
+```bash
+JavaScript | React.js | Node.js | Python | Java | SQL | MongoDB
+📈 Estadísticas de GitHub
+!Estadísticas de GitHub
+
+📫 Contáctame
+LinkedIn - @tunombre
+Twitter - @tunombre
+Email - tunombre@ejemplo.com
+
+Por favor, reemplaza `[Tu nombre]`, `tunombre@ejemplo.com`, `https://linkedin.com/in/tunombre`, `https://twitter.com/tunombre`, `https://tu-url-de-imagen/banner.png`, y `username=tunombre` con tu información personal.
+
+Este es solo un ejemplo. Puedes personalizarlo aún más para que se ajuste a tus necesidades. ¡Espero que esto te ayude a crear un perfil de GitHub más profesional! 😊.
