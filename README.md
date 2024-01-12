@@ -11,7 +11,7 @@ Soy un desarrollador de software con pasión por aprender y aplicar las últimas
 
 ## 🛠️ Habilidades técnicas
 
-JavaScript | React.js | Python | Java | SQL |
+JavaScript | Python | Java | SQL 
 
 📫 Contáctame
 Email - 123dhaio@gmail.com
